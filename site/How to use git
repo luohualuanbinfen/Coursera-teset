@@ -1,0 +1,6 @@
+**************************************************************
+VSC(version control system)
+RCS CVCS
+DVCSs(Distributed Version Control Systems)
+
+Three main sections of a Git project: the Git directory, the working tree, and the staging area.
