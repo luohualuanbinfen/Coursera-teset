@@ -3,6 +3,7 @@ body {
   color: black;
   background-color: white;
   font-family: 'Oxygen', sans-serif;
+  margin-bottom: 20px;
 }
 
 /** HEADER **/
